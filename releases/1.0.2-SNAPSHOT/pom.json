@@ -14,7 +14,8 @@
     ],
     "sources": [
         "DownloadDataURL.js",
-        "DragDrop.js"
+        "DragDrop.js",
+		"README.md"
     ],
     "dependencies": [],
     "configuration": {}
